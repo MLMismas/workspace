@@ -8,6 +8,6 @@ import { FooterComponent } from './footer/footer.component';
   declarations: [WidgetsComponent, FooterComponent],
   imports: [
   ],
-  exports: [WidgetsComponent]
+  exports: [WidgetsComponent, FooterComponent]
 })
 export class WidgetsModule { }
